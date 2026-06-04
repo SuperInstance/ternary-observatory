@@ -1,0 +1,8 @@
+[package]
+name = "ternary-observatory"
+version = "0.1.0"
+edition = "2021"
+description = "Long-range observation and forecasting of room states in ternary fleets"
+license = "MIT"
+
+[dependencies]
