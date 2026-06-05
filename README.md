@@ -87,3 +87,11 @@ Part of the SuperInstance ternary fleet. `ternary-beacon` feeds room discovery d
 ## License
 
 MIT
+
+## See Also
+- **ternary-beacon** — related
+- **ternary-navigator** — related
+- **ternary-compass** — related
+- **ternary-constellation** — related
+- **ternary-event** — related
+
